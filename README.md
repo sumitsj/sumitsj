@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sumit Suresh jadhav
-- 👀 I’m passionate about web development.
+- 👋 Hi, I’m Sumit Suresh Jadhav.
+- 👀 I’m passionate about software development.
 - 🌱 I’m currently learning so many things ;)
 - 📫 You can reach out to me on 8855860243 | summit.jadhav@gmail.com
 
